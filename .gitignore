@@ -1,0 +1,21 @@
+# Node.js
+node_modules
+npm-debug.log
+
+# Logs
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Editor y sistema operativo
+.DS_Store
+.vscode
+
+# Git
+.git
+
